@@ -15,7 +15,6 @@ Personal Website
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text]
 <img src="https://raw.githubusercontent.com/czhd-create/danielc/main/images/Resume%20photo.jpg" alt="My Profile Pic" width="500" height="600">
 
 <!-- Add your details -->
