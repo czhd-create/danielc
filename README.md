@@ -56,6 +56,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 ##### National University of Singapore
 Science, 2005 - 2008
 
+### SUBJECTS LEARNED IN NUS
+.....
+
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
