@@ -15,7 +15,7 @@ Personal Website
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/czhd-create/danielc/main/images/Resume%20photo.jpg)
+![alt text]
 <img src="https://raw.githubusercontent.com/czhd-create/danielc/main/images/Resume%20photo.jpg" alt="My Profile Pic" width="500" height="600">
 
 <!-- Add your details -->
@@ -32,6 +32,7 @@ I am __Daniel Cheong__, a coding enthusiast with ~7 years of progressive experie
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -52,8 +53,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### National University of Singapore
+Science, 2005 - 2008
 
 <!-- EDUCATION Section Ends -->
 
@@ -91,3 +92,9 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+<!-- EXTRACURRICULAR Section Starts -->
+### EXTRACURRICULAR
+<!-- Add your details -->
+
+<!-- EXTRACURRICULAR Section Ends -->
