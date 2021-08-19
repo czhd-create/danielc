@@ -6,7 +6,7 @@ Personal Website
 
 <!-- Add your details -->
 ✉️: dcsg2015@gmail.com
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-xxxxxxxx
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cheongdaniel5090911b9/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](Work In Progress!)
 <!-- CONTACT Section Ends -->
