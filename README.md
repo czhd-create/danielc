@@ -19,7 +19,7 @@ Personal Website
 
 <!-- Add your details -->
 
-I am __Daniel Cheong__, a coding enthusiast with ~7 years of progressive experience in artificial intelligence. 
+I am __Daniel Cheong__, 
 [add your contributions here]
 [add what you were involved in] 
 [add the activities you did in BCG RISE]
@@ -38,14 +38,14 @@ I am __Daniel Cheong__, a coding enthusiast with ~7 years of progressive experie
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### BOSTON CONSULTING GROUP BCG ACADEMY
+Trainee (Feb to Aug 2021) <br>
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+ROLE: -
+UNIT: -
+
+WORK IN PROGRESS!
 
 <!-- EXPERIENCE Section Ends -->
 
@@ -89,10 +89,10 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+-
 
 ##### Achievements
-Star performer of the year at Accenture
+-
 <!-- FEATURED Section Ends -->
 
 <!-- EXTRACURRICULAR Section Starts -->
